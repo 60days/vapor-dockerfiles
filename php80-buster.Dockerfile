@@ -15,7 +15,6 @@ RUN apt-get update && \
 
 RUN apt-get update && \
     apt-get install -y \
-    libmagickwand-dev \
     libonig-dev \
     libmcrypt-dev \
     libxml2 \
